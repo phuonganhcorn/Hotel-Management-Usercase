@@ -5,6 +5,10 @@ Hotel Management Software
 Goal
 The goal of the Hotel Management Software is to streamline and enhance the hotel management process, providing efficient and effective services to both staff and guests.
 
+ Markup : * Optimized Room Management
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 Business Objectives
 1. Optimized Room Management
 Allow the manager to efficiently manage room information, including adding, editing, and deleting room details.
