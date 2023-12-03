@@ -1,6 +1,6 @@
 # SE2023CNPM
 Midterm Lab 7 of class SE2023
-
+Markup :  # Heading 1 #
 Hotel Management Software
 Goal
 The goal of the Hotel Management Software is to streamline and enhance the hotel management process, providing efficient and effective services to both staff and guests.
