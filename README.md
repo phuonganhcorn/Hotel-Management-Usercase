@@ -1,6 +1,6 @@
-# SE2023CNPM - Midterm Lab 7 - 20001523 Ngô Phương Anh
+# SE2023CNPM - Midterm Lab 7 
 
-## Hotel Management Software
+## 20001523 Ngô Phương Anh Hotel Management Software
 
 ### Goal
 
